@@ -1,15 +1,15 @@
 {
-  "version": "0.11.1",
-  "notes": "## Anno Optimizer v0.11.1\n\nChanges since v0.11.0 :\n\n- feat: v0.11.1 — schematic empire map (#30), completes the 4-feature request",
-  "pub_date": "2026-05-29T18:33:34.665Z",
+  "version": "0.12.0",
+  "notes": "## Anno Optimizer v0.12.0\n\nChanges since v0.11.1 :\n\n- feat: v0.12.0 — full Anno 1800 visual reskin",
+  "pub_date": "2026-05-29T19:05:24.261Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb3NPRFpOMUpzMnRvNEVTQ2VyZUQ2MmU4QU9KakFzcXhnOU96UWxrUU1rb1VGZGNTN3AvWWdQc200QUp4U215MGJXdjJyaFc2V3lDdHZxdWxnMlBTMTNhckIrVmtmd2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDc5NjEwCWZpbGU6QW5ubyBPcHRpbWl6ZXJfMC4xMS4xX3g2NC1zZXR1cC5leGUKUm1CaDUrK2sydSsvMXBRd1dWZnQ4WG9CN0tHZzRGY0pXTjlEVlRwRTRCbkxQSzV3VW1kOWIvR0YzemV6OVB5eWw0TGh2RGZMQ3RPdFcyRFNwWnBqQ0E9PQo=",
-      "url": "https://github.com/gregorfl-cloud/anno-optimizer-updates/releases/download/v0.11.1/Anno.Optimizer_0.11.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb3NPRFpOMUpzMnZWcUZ4dnA0V1dJbUswMkVLa21kaHBEaEtVdWVpUWxKcjlLOGFjV3duM0JkRkI2NlgwaW5PNk1QNVFWaWUvSGhURlZ1clI1aitBMno0RTJYL1BZc2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDgxNTE5CWZpbGU6QW5ubyBPcHRpbWl6ZXJfMC4xMi4wX3g2NC1zZXR1cC5leGUKWk1WcVYwamxvSVhBTnhTeWlERmJ0ZXdKRE5abDhVUzdpUzk2K3lvRlNtYkdXM0V5VFJaaUdaZUpxeEFHSlYvTU1NUjB1WXNudGh5MGRNZi93MnRHQ3c9PQo=",
+      "url": "https://github.com/gregorfl-cloud/anno-optimizer-updates/releases/download/v0.12.0/Anno.Optimizer_0.12.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb3NPRFpOMUpzMnRvNEVTQ2VyZUQ2MmU4QU9KakFzcXhnOU96UWxrUU1rb1VGZGNTN3AvWWdQc200QUp4U215MGJXdjJyaFc2V3lDdHZxdWxnMlBTMTNhckIrVmtmd2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDc5NjEwCWZpbGU6QW5ubyBPcHRpbWl6ZXJfMC4xMS4xX3g2NC1zZXR1cC5leGUKUm1CaDUrK2sydSsvMXBRd1dWZnQ4WG9CN0tHZzRGY0pXTjlEVlRwRTRCbkxQSzV3VW1kOWIvR0YzemV6OVB5eWw0TGh2RGZMQ3RPdFcyRFNwWnBqQ0E9PQo=",
-      "url": "https://github.com/gregorfl-cloud/anno-optimizer-updates/releases/download/v0.11.1/Anno.Optimizer_0.11.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb3NPRFpOMUpzMnZWcUZ4dnA0V1dJbUswMkVLa21kaHBEaEtVdWVpUWxKcjlLOGFjV3duM0JkRkI2NlgwaW5PNk1QNVFWaWUvSGhURlZ1clI1aitBMno0RTJYL1BZc2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDgxNTE5CWZpbGU6QW5ubyBPcHRpbWl6ZXJfMC4xMi4wX3g2NC1zZXR1cC5leGUKWk1WcVYwamxvSVhBTnhTeWlERmJ0ZXdKRE5abDhVUzdpUzk2K3lvRlNtYkdXM0V5VFJaaUdaZUpxeEFHSlYvTU1NUjB1WXNudGh5MGRNZi93MnRHQ3c9PQo=",
+      "url": "https://github.com/gregorfl-cloud/anno-optimizer-updates/releases/download/v0.12.0/Anno.Optimizer_0.12.0_x64-setup.exe"
     }
   }
 }
